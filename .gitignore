@@ -1,4 +1,8 @@
+# Develop
 .vscode
+# Release
 dist/
 *.exe
 *.bin
+# Test
+coverage.txt
